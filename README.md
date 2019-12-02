@@ -4,4 +4,4 @@
 
 ##  重学CSS系列
 
-- [学习BFC](https://github.com/lyc2014/Basic_Knowledge/tree/master/css/BFC.md)
+- [学习BFC](https://github.com/lyc2014/Basic_Knowledge/issues/1#issue-531016218)
